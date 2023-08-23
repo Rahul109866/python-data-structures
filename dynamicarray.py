@@ -2,7 +2,7 @@ import ctypes
 
 class DynamicArray(object):
     
-    
+    #
     def __init__(self):
         
         self.no_of_elements = 0 #number of elements in the array
